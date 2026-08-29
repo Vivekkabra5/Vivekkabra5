@@ -14,11 +14,27 @@
 
 ## 🚀 About Me
 
-- 🎓 Master of Professional Studies in Analytics — **Northeastern University**, Toronto (2024–2026)
-- 📊 Advanced Certificate in Data Science — **IIIT Bangalore**
-- 💼 Development Intern (Co-op) at **EDF Power Solutions North America** — renewable energy market intelligence, financial modeling, and Power BI reporting
+- 🎓 Master of Professional Studies in Analytics — **Northeastern University**, Toronto (2024–2026), CGPA 3.8/4.0
+- 📊 Advanced Certificate in Data Science — **IIIT Bangalore** (2023–2024), CGPA 4.0/4.0
+- 💻 B.Tech in Computer Science and Engineering — **MGM's College of Engineering**, Nanded (2018–2022)
 - 🐍 Hands-on with **Python, SQL, Power BI**, and end-to-end ML workflows: classification, clustering, simulation, hypothesis testing
 - 📈 Passionate about clean data storytelling and turning messy real-world data into decisions stakeholders can act on
+- 🔒 I've also worked on a number of industry and university projects under NDA (EDF Power Solutions, Northeastern Experiential Network) that aren't publicly listed here for confidentiality reasons
+
+---
+
+## 💼 Professional Experience
+
+**Development Intern (Co-op), EDF Power Solutions North America** — Toronto, Canada *(Oct 2025 – Mar 2026)*
+- Market intelligence analysis on NYISO/grid-operator interconnection queues to identify renewable energy opportunities
+- Financial modeling for renewable project economics (Ontario IESO Industrial Conservation Initiative)
+- Automated Power Query/Excel workflows, cutting manual processing time ~75%
+- Built Power BI dashboards for team operations and business intelligence
+
+**Member of Technical Staff, Mindstix Software Labs** — Pune, India *(Sept 2022 – Jun 2023)*
+- Researched healthcare interoperability standards (FHIR, OpenEHR) for clinical data transformation
+- Diagnosed and fixed data pipeline errors feeding a machine learning price-prediction model
+- Supported senior developers debugging Python applications; built onboarding resources for new hires
 
 ---
 
@@ -56,8 +72,30 @@ CNN (TensorFlow) classifying malaria-infected blood cell images, served through 
 **Power BI Dashboard — Toronto Water Lead Contamination**
 Interactive dashboard over open municipal data, with Power Query cleaning and stakeholder-facing dynamic filtering.
 
-**Sustainability Startup Market Feasibility Study** *(Team Lead)*
+**Sustainability Startup Market Feasibility Study** *(Team Lead, Northeastern Experiential Network)*
 Led a 2-person consulting engagement for an early-stage sustainability startup: regional market segmentation with GIS data, K-means clustering across 60+ candidate markets, and a parameterized financial model to guide phased go-to-market strategy.
+
+*A number of additional projects from my EDF co-op and Northeastern coursework are covered by NDA/sponsor confidentiality and aren't detailed publicly.*
+
+---
+
+## 📜 Certifications
+
+- Prompt Engineering: How to Talk to AIs — LinkedIn (2025)
+- Generative AI vs. Traditional AI — LinkedIn (2025)
+- Data Visualization and Storytelling — Northeastern University (2025)
+- Introduction to TensorFlow for AI, ML, and DL — Coursera (2022)
+- Python for Data Science and AI — Coursera (2020)
+- Introduction to Cybersecurity — Cisco (2020)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vivekkabra5&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkabra5&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
