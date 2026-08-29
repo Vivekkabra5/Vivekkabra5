@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vivek Kabra
+# Vivek Kabra
 
 ### Data Analyst | Analytics Graduate Student | AI & ML Enthusiast
 
@@ -12,33 +12,66 @@
 
 ---
 
-## 🚀 About Me
+## Summary
 
-- 🎓 Master of Professional Studies in Analytics — **Northeastern University**, Toronto (2024–2026), CGPA 3.8/4.0
-- 📊 Advanced Certificate in Data Science — **IIIT Bangalore** (2023–2024), CGPA 4.0/4.0
-- 💻 B.Tech in Computer Science and Engineering — **MGM's College of Engineering**, Nanded (2018–2022)
-- 🐍 Hands-on with **Python, SQL, Power BI**, and end-to-end ML workflows: classification, clustering, simulation, hypothesis testing
-- 📈 Passionate about clean data storytelling and turning messy real-world data into decisions stakeholders can act on
-- 🔒 I've also worked on a number of industry and university projects under NDA (EDF Power Solutions, Northeastern Experiential Network) that aren't publicly listed here for confidentiality reasons
-
----
-
-## 💼 Professional Experience
-
-**Development Intern (Co-op), EDF Power Solutions North America** — Toronto, Canada *(Oct 2025 – Mar 2026)*
-- Market intelligence analysis on NYISO/grid-operator interconnection queues to identify renewable energy opportunities
-- Financial modeling for renewable project economics (Ontario IESO Industrial Conservation Initiative)
-- Automated Power Query/Excel workflows, cutting manual processing time ~75%
-- Built Power BI dashboards for team operations and business intelligence
-
-**Member of Technical Staff, Mindstix Software Labs** — Pune, India *(Sept 2022 – Jun 2023)*
-- Researched healthcare interoperability standards (FHIR, OpenEHR) for clinical data transformation
-- Diagnosed and fixed data pipeline errors feeding a machine learning price-prediction model
-- Supported senior developers debugging Python applications; built onboarding resources for new hires
+Graduate student in Analytics with hands-on experience across data science, machine
+learning, and data visualization. Proficient in Python, SQL, and Power BI, with
+project experience spanning classification, clustering, simulation, and dashboard
+development. Comfortable working in collaborative, cross-functional settings —
+from sponsor-facing consulting engagements to production data pipelines — and
+focused on turning messy real-world data into decisions stakeholders can act on.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
+
+**Development Intern (Co-op), EDF Power Solutions North America** — Toronto, Canada
+*Oct 2025 – Mar 2026*
+- Analyzed interconnection queue records from NYISO and other grid operators to identify renewable energy project opportunities and competitive landscape trends
+- Built a case-study financial model quantifying electricity cost savings from pairing a Class A customer with a wind project under Ontario's IESO Industrial Conservation Initiative
+- Automated data processing workflows in Power Query and Excel, cutting manual processing time by ~75%
+- Developed Power BI dashboards for team operations, attendance tracking, and business intelligence
+- Conducted renewable energy market research, including solar resource analysis and site feasibility studies across North American jurisdictions
+
+**Member of Technical Staff, Mindstix Software Labs** — Pune, India
+*Sept 2022 – Jun 2023*
+- Researched healthcare interoperability standards (FHIR, OpenEHR) and FHIR Bridge architecture to support clinical data transformation initiatives
+- Identified and resolved data pipeline errors for a machine learning price-prediction model, improving downstream data quality
+- Supported senior developers in debugging Python applications and curated onboarding resources for new technical hires
+
+---
+
+## Featured Projects
+
+**[Toronto Pet Licensing — Multi-Model Analysis of 145K+ Municipal Records](https://github.com/Vivekkabra5/Toronto-Pet-Licensing-Multi-Model-Analysis-of-145K-Municipal-Records)**
+Cleaned and analyzed 145K+ pet licensing records; built KNN and logistic regression classifiers predicting species from breed and location (97%+ accuracy); delivered findings via heatmaps, distribution charts, and an interactive Folium choropleth map.
+
+**[Lead Scoring Prediction](https://github.com/Vivekkabra5/Lead-Scoring-prediction)**
+Classification model assigning lead scores so sales teams can prioritize the leads most likely to convert into paying customers.
+
+**Sustainability Startup Market Feasibility Study** — *Team Lead, Northeastern Experiential Network*
+Led a 2-person consulting team delivering a market entry feasibility study for an early-stage sustainability startup: integrated 4 years of public-sector data with GIS shapefiles, applied K-means clustering to segment 60+ candidate markets, and built a parameterized Python financial model across adoption scenarios and pricing tiers to support a phased go-to-market recommendation.
+
+**Customer Churn Prediction**
+Logistic regression model on telecom churn data; identified age as the most influential churn factor via exploratory analysis and hypothesis testing; visualized trends with Seaborn for a non-technical audience.
+
+**DL-based Malaria Detection App**
+CNN built with TensorFlow to classify malaria-infected blood cell images, served through a lightweight Flask app; achieved 90%+ test accuracy with image preprocessing and data augmentation.
+
+**Power BI Dashboard — Toronto Water Lead Contamination**
+Interactive Power BI dashboard analyzing lead contamination in Toronto's water supply using open municipal data, with Power Query-based cleaning and dynamic filtering for non-technical stakeholders.
+
+---
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Languages** | Python, SQL, Java, C |
+| **Libraries** | Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib |
+| **Visualization** | Power BI, Tableau, Excel (Power Query) |
+| **Platforms/Tools** | Databricks, Snowflake, Azure, Flask, Git, Jupyter |
+| **Concepts** | EDA, Classification, Clustering, Simulation, Hypothesis Testing, Deep Learning |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -55,31 +88,20 @@
 
 ---
 
-## 📌 Featured Projects
+## Education
 
-**[Toronto Pet Licensing — Multi-Model Analysis of 145K+ Municipal Records](https://github.com/Vivekkabra5/Toronto-Pet-Licensing-Multi-Model-Analysis-of-145K-Municipal-Records)**
-KNN and logistic regression classifiers predicting pet species from breed and location, 97%+ accuracy, with an interactive Folium choropleth map of licensed pets by neighborhood.
+**Northeastern University**, Toronto, Canada
+Master of Professional Studies in Analytics | Sept 2024 – June 2026 | CGPA 3.8/4.0
 
-**[Lead Scoring Prediction](https://github.com/Vivekkabra5/Lead-Scoring-prediction)**
-Classification model assigning lead scores so sales teams can prioritize the leads most likely to convert.
+**IIIT Bangalore**
+Advanced Certificate in Data Science | Sept 2023 – Apr 2024 | CGPA 4.0/4.0
 
-**Customer Churn Prediction**
-Logistic regression on telecom churn data; identified age as the most influential churn driver via EDA and hypothesis testing.
-
-**DL-based Malaria Detection App**
-CNN (TensorFlow) classifying malaria-infected blood cell images, served through a lightweight Flask app; 90%+ test accuracy.
-
-**Power BI Dashboard — Toronto Water Lead Contamination**
-Interactive dashboard over open municipal data, with Power Query cleaning and stakeholder-facing dynamic filtering.
-
-**Sustainability Startup Market Feasibility Study** *(Team Lead, Northeastern Experiential Network)*
-Led a 2-person consulting engagement for an early-stage sustainability startup: regional market segmentation with GIS data, K-means clustering across 60+ candidate markets, and a parameterized financial model to guide phased go-to-market strategy.
-
-*A number of additional projects from my EDF co-op and Northeastern coursework are covered by NDA/sponsor confidentiality and aren't detailed publicly.*
+**MGM's College of Engineering**, Nanded, Maharashtra
+B.Tech in Computer Science and Engineering | Jul 2018 – Jul 2022 | CGPA 8.97/10
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Prompt Engineering: How to Talk to AIs — LinkedIn (2025)
 - Generative AI vs. Traditional AI — LinkedIn (2025)
@@ -90,15 +112,19 @@ Led a 2-person consulting engagement for an early-stage sustainability startup: 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vivekkabra5&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkabra5&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekkabra5&hide_border=true" alt="GitHub streak" />
+</p>
+
 ---
 
-## 📫 Reach Me
+## Contact
 
-[LinkedIn](https://linkedin.com/in/vivek-kabra-900619b) · [Email](mailto:vivekkabra5@gmail.com)
+[LinkedIn](https://linkedin.com/in/vivek-kabra-900619b) · [Email](mailto:vivekkabra5@gmail.com) · Toronto, ON
